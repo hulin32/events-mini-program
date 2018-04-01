@@ -6,6 +6,6 @@ app.$mount();
 
 export default {
   config: {
-    navigationBarTitleText: '创建活动',
+    navigationBarTitleText: '编辑活动',
   },
 };
